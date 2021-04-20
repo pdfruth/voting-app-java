@@ -14,7 +14,7 @@
   <body>
     <div id="content-container">
       <div id="content-container-center">
-        <h3>Which vaccine have you received?</h3>
+        <h3>Which vaccine have you gotten?</h3>
         <form id="choice" name='form' method="post" action="voteServlet">
           <button id="a" type="submit" name="vote" class="a" value="a">Moderna</button>
           <button id="b" type="submit" name="vote" class="b" value="b">Pfizer</button>
